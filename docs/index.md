@@ -122,4 +122,4 @@ That's it! NVivo should now be running on your computer.
 
 3. You can replace your license key by copying and pasting the new license key in, and clicking **OK.**
 
-Technique: [Installation](https://mdl.library.utoronto.ca/technique/qualitative-data-analysis) | Tools: [NVivo](https://mdl.library.utoronto.ca/tools/nvivo)
+Technique: [Installation](https://mdl.library.utoronto.ca/technique/installation) | Tools: [NVivo](https://mdl.library.utoronto.ca/tools/nvivo)
