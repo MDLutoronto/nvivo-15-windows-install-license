@@ -26,3 +26,5 @@ nav_order: 3
     <img src='{{ '/assets/images/user%20profile_0.png' | relative_url }}' alt='User profile screen with Name and Initials highlighted' title='' width='616' height='519' />
 
 That's it! NVivo should now be running on your computer.
+
+**Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)

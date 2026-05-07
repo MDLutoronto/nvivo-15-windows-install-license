@@ -13,17 +13,14 @@ nav_order: 2
 
 2. Locate the NVivo installer in your **Recent Downloads,** and open it.
 
-    <img src='{{ '/assets/images/install%20wiz_1.png' | relative_url }}' alt=' Installation Wizard with English selected and OK highlighted' title='' width='375' height='155' />
-
- 
-
 3. Select your preferred language for the installation process, and click **OK.**
 
-    <img src='{{ '/assets/images/installer_0.png' | relative_url }}' alt=' Installer Welcome pop-up with Next highlighted' title='' width='491' height='373' />
-
- 
+    <img src='{{ '/assets/images/install%20wiz_1.png' | relative_url }}' alt=' Installation Wizard with English selected and OK highlighted' title='' width='375' height='155' />
 
 4. Go through the instructions, and click **"Next".**
+
+    <img src='{{ '/assets/images/installer_0.png' | relative_url }}' alt=' Installer Welcome pop-up with Next highlighted' title='' width='491' height='373' />
+    
 5. Read through the License Agreement, select **"I accept the terms in the license agreement",** and click **Next.**
 
     <img src='{{ '/assets/images/license%20agreement_0.png' | relative_url }}' alt=' NVivo Installer with License Agreement and I accept terms of agreement highlighted and Next highlighted' title='' width='498' height='378' />
@@ -54,3 +51,5 @@ nav_order: 2
  
 
 NVivo is now installed! Continue with the next steps to activate your license.
+
+**Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)

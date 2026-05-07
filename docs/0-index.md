@@ -12,6 +12,7 @@ created_date: 2024-08-30
 permalink: "/"  #! Remove this if not the homepage
 nav_order: 0
 has_children: true
+has_toc: false
 ---
 
 # Installing and Licensing NVivo 15 for Windows
@@ -22,4 +23,4 @@ Find information on how to request a license, download and install the software,
 
 *Note: If you need NVivo 14, please reach out to us using our* [*contact form*](https://mdl.library.utoronto.ca/about/contact-form)
 
-Technique: [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) | Tools: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
+**Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
