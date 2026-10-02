@@ -21,6 +21,6 @@ This tutorial is for installing and licensing **NVivo 15** on Windows computers.
 
 Find information on how to request a license, download and install the software, as well as how to activate the license key for new and existing users.
 
-*Note: If you need NVivo 14, please reach out to us using our* [*contact form*](https://mdl.library.utoronto.ca/about/contact-form)
+*Note: If you need NVivo 14, please reach out to us using our* [*contact form*](https://library.utoronto.ca/contact-us/data-maps)
 
 **Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
